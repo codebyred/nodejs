@@ -1,0 +1,2 @@
+#!/bin/node
+console.log(1%7);

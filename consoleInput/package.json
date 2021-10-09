@@ -1,0 +1,15 @@
+{
+  "name": "consoleinput",
+  "version": "0.0.1",
+  "description": "getting user input",
+  "main": "app.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello vondura"
+  },
+  "author": "Redoan",
+  "license": "ISC"
+}

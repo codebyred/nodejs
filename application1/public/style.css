@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+nav{
+    background-color: red;
+    display: flex;
+}
+.site-title{
+    margin: 2rem;
+    flex:1
+}
+ul{
+    margin-right: 2rem;
+}
+.content{
+    margin: 3px;
+    background-color:gray;
+}
