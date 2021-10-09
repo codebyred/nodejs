@@ -13,5 +13,5 @@ connection.connect((err)=>{
     }
     console.log("mysql connected")
 });
-
+//just adding some comments
 module.exports.connection = connection;
